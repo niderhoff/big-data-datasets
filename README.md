@@ -55,3 +55,4 @@ These pages might link to datastes which are already in the list.
   - [Usage examples](https://registry.opendata.aws/usage-examples)
 - [Kaggle Datastes](https://www.kaggle.com/datasets?sortBy=hottest&group=public&page=1&pageSize=20&size=large&filetype=all&license=all)
 - [Data Science Central: Big data sets available for free](https://www.datasciencecentral.com/forum/topics/big-data-sets-available-for-free?groupUrl=resources)
+- [KDNuggets](https://www.kdnuggets.com/datasets/index.html)
